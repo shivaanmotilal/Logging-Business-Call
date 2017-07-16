@@ -1,0 +1,13 @@
+https://www.lynda.com/Android-tutorials/Find-answers-documentation/518053/563051-4.html#tab
+
+https://www.npmjs.com/package/react-native-manipulate-call-log
+
+https://www.npmjs.com/package/react-native-manipulate-call-log
+
+https://developer.android.com/reference/packages.html
+
+lynda.uct.ac.za
+
+https://github.com/Microsoft/react-native-windows/blob/master/docs/NativeModulesWindows.md
+
+https://github.com/mmazzarolo/react-native-login-animation-example
