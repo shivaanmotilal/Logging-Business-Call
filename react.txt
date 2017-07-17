@@ -21,4 +21,9 @@ https://github.com/smhatre59/cloudstorage/tree/master/frontend
 
 https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d
 
+
+//Tutorials
+
 https://www.tutorialspoint.com/android/android_hello_world_example.htm
+
+https://www.tutorialspoint.com/android/android_login_screen.htm
