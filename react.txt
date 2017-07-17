@@ -19,4 +19,6 @@ https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-m
 
 https://github.com/smhatre59/cloudstorage/tree/master/frontend
 
+https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d
 
+https://www.tutorialspoint.com/android/android_hello_world_example.htm
