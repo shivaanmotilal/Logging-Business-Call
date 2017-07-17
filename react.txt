@@ -11,3 +11,12 @@ lynda.uct.ac.za
 https://github.com/Microsoft/react-native-windows/blob/master/docs/NativeModulesWindows.md
 
 https://github.com/mmazzarolo/react-native-login-animation-example
+
+
+//Cloud React programming
+
+https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
+
+https://github.com/smhatre59/cloudstorage/tree/master/frontend
+
+
