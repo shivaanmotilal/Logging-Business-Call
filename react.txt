@@ -35,3 +35,4 @@ https://stackoverflow.com/questions/35849848/how-can-i-properly-import-a-compone
 //making react file to access call logs
 https://github.com/anarchicknight/react-native-communications/blob/master/README.md
 https://github.com/anarchicknight/react-native-communications/blob/master/README.md
+http://www.reactnative.com/ios-and-android-device-information-for-react-native/
