@@ -32,7 +32,13 @@ https://www.tutorialspoint.com/android/android_login_screen.htm
 //adding react module
 https://stackoverflow.com/questions/35849848/how-can-i-properly-import-a-component-into-my-navigator-in-react-native
 
+
+
 //making react file to access call logs
 https://github.com/anarchicknight/react-native-communications/blob/master/README.md
 https://github.com/anarchicknight/react-native-communications/blob/master/README.md
+
+//Integrate Native with Android
+https://facebook.github.io/react-native/docs/integration-with-existing-apps.html
 http://www.reactnative.com/ios-and-android-device-information-for-react-native/
+https://stackoverflow.com/questions/6786666/how-do-i-access-call-log-for-android
