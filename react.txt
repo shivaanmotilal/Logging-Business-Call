@@ -45,3 +45,6 @@ https://stackoverflow.com/questions/6786666/how-do-i-access-call-log-for-android
 
 //organising react native project
 https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0
+
+//app course react
+http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter
