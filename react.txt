@@ -42,3 +42,6 @@ https://github.com/anarchicknight/react-native-communications/blob/master/README
 https://facebook.github.io/react-native/docs/integration-with-existing-apps.html
 http://www.reactnative.com/ios-and-android-device-information-for-react-native/
 https://stackoverflow.com/questions/6786666/how-do-i-access-call-log-for-android
+
+//organising react native project
+https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0
