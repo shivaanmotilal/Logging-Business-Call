@@ -48,3 +48,4 @@ https://medium.com/the-react-native-log/organizing-a-react-native-project-9514df
 
 //app course react
 http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter
+https://code.tutsplus.com/tutorials/common-react-native-app-layouts-login-page--cms-27639
