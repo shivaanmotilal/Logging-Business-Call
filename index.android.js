@@ -61,13 +61,13 @@ export default class WorkingApp extends Component {
 			
 			<Container>
 			    <Button 
-				label="Forgot Login/Password"
+				label="No Login Details? Click here to Register"
 				styles={{button: styles.alignRight, label: styles.label}} 
 				onPress={this.onPress} />
 			</Container>
 
 			<Container>
-			    <Label text="Username or Email" />
+			    <Label text="Username/Email" />
 			    <TextInput
 			        style={styles.textInput}
 			    />
@@ -88,7 +88,7 @@ export default class WorkingApp extends Component {
 			<View style={styles.footer}>
 			    <Container>
 			        <Button 
-			            label="Sign In"
+			            label="Login"
 			            styles={{button: styles.primaryButton, label: styles.buttonWhiteText}} 
 			            //onPress= {this._onPress}/>
 			            />
